@@ -12,7 +12,7 @@ const secretKey = 'your-secret-key';
 
 // MongoDB connection URL
 const mongoURL =
-  'mongodb+srv://aza:mongoodb@asg3433.c2s3iyk.mongodb.net/?retryWrites=true&w=majority';
+  'mongodb+srv://fadh:<password>@clusteria.gucopes.mongodb.net/?retryWrites=true&w=majority';
 
 // MongoDB database and collections names
 const dbName = 'appointment';
