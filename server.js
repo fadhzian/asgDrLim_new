@@ -12,7 +12,7 @@ const secretKey = 'your-secret-key';
 
 // MongoDB connection URL
 const mongoURL =
-  'mongodb+srv://fadh:<password>@clusteria.gucopes.mongodb.net/?retryWrites=true&w=majority';
+  'mongodb+srv://fadh:fedhoz@clusteria.gucopes.mongodb.net/?retryWrites=true&w=majority';
 
 // MongoDB database and collections names
 const dbName = 'appointment';
@@ -30,7 +30,7 @@ const options = {
             title: "office appointment",
             version: "1.0.0",
             description: "BENRS2 Group 13"
-        },
+        }, 
     },
     apis: ['./server.js'],
 }
