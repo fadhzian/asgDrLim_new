@@ -30,7 +30,7 @@ const options = {
             title: "office appointment",
             version: "1.0.0",
             description: "BENRS2 Group 13"
-        }, 
+        },
     },
     apis: ['./server.js'],
 }
